@@ -1,3 +1,4 @@
+폴더 구조
 ![폴더 구조](images/folder_structure.png)
 
 현재 완료된 항목
